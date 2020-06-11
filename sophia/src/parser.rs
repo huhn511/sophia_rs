@@ -103,3 +103,5 @@ pub mod trig;
 pub mod turtle;
 #[cfg(feature = "xml")]
 pub mod xml;
+#[cfg(feature = "xml")]
+pub mod xml2;
